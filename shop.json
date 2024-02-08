@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Iphone Xs telefontok",
+      "price": "500000",
+      "img": "no-image.png"
+    },
+    {
+      "id": "2",
+      "name": "Laptop",
+      "price": "45000",
+      "img": "no-image.png"
+    },
+    {
+      "id": "3",
+      "name": "Billentyűzet",
+      "price": "25000",
+      "img": "no-image.png"
+    },
+    {
+      "id": "4",
+      "name": "Egér",
+      "price": "25000",
+      "img": "no-image.png"
+    },
+    {
+      "id": "d1d2",
+      "name": "sdafsd",
+      "price": "2000"
+    },
+    {
+      "id": "298b",
+      "name": "teszt2",
+      "price": "60000"
+    },
+    {
+      "id": "91a0",
+      "name": "gfdg",
+      "price": "31311"
+    }
+  ],
+  "order": [
+    {
+      "id": "1",
+      "datum": "2024-01-31",
+      "pId": "1",
+      "quantity": "2",
+      "uId": "2"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "Looser",
+      "email": "cim@domain.hu",
+      "address": "Bújócska utca kavics után jobbra"
+    },
+    {
+      "id": "2",
+      "name": "Winner",
+      "email": "victory@domain.org",
+      "address": "Ahol megtalálsz"
+    }
+  ],
+  "cart": [
+    {
+      "id": "91a0",
+      "name": "gfdg",
+      "price": "31311",
+      "quantity": "1"
+    },
+    {
+      "id": "3",
+      "name": "Billentyűzet",
+      "price": "25000",
+      "quantity": "1"
+    }
+  ]
+}
